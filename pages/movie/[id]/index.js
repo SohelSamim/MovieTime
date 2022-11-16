@@ -12,7 +12,7 @@ const Movie = ({ movie }) => {
         <h1 className="font-bold text-xl my-2">{movie.title}</h1>
         <p className="text-black text-sm mt-4">{movie.overview}</p>
         <p className="mt-5 text-black text-sm">Genres: <span className="font-bold">{movie.genres.map(genre => genre.name).join(', ')}</span></p>
-        <p className="text-black text-sm">Release Date: <span className="font-bold">{movie.release_date}</span></p>
+        <p className="text-black text-sm">Released Date: <span className="font-bold">{movie.release_date}</span></p>
       </div>
     </div>
   );
