@@ -1,4 +1,4 @@
-![Project Preview]? go to this linke:
+![Project Preview]? go to this linke: The website is yet not published
 
 ## Available Scripts
 
