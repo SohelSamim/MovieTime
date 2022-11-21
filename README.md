@@ -20,3 +20,4 @@ TailwindCSS: https://tailwindcss.com/docs/guides/nextjs
 Themoviedb: https://www.themoviedb.org/
 Themoviedb Docs: https://developers.themoviedb.org/3
 font family: https://fonts.google.com/specimen/Bebas+Neue
+<img width="1438" alt="ok" src="https://user-images.githubusercontent.com/47162719/202935507-70cf8815-42d3-4b77-bb0b-ea490e76acc1.png">
